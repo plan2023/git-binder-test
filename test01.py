@@ -1,5 +1,3 @@
-%matplotlib inline
-
 import pandas
 
 data = pandas.read_csv("gapminder.csv", index_col="country")
